@@ -1,0 +1,15 @@
+/reports/charts/price_distribution.png
+/reports/charts/rating_distribution.png
+/reports/charts/top_expensive_products.png
+/reports/charts/price_category_average.png
+
+
+/data/processed/amazon_processed_products.csv
+
+
+/data/raw/amazon_raw_products.csv
+
+python pipeline/run_pipeline.py
+
+
+pip install -r requirements.txt
